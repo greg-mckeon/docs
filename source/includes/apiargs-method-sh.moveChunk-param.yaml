@@ -21,7 +21,7 @@ type: document
 ---
 arg_name: param
 description: |
-  The name of the shard to move.
+  The name of the destination shard.
 interface: method
 name: destination
 operation: sh.moveChunk
